@@ -1,0 +1,14 @@
+.feedBackBtn {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.btn {
+  cursor: pointer;
+
+  border-radius: 20px;
+}
+.btn:hover {
+  transition: all 0.3s ease 0s;
+  transform: scale(1.2);
+}
